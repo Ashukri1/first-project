@@ -6,12 +6,13 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+-  The motivation was to see if i was able to do something on my own without the instructor help and see what are my weakness and strenght in HTML.
+-  (Note: the answer is not "Because it was a homework assignment.") I biuld this project to implement what i learnt in class and made use of different semantics instead of divs.
+-  The problem that i solved would be i followed the challenge with  the requirements changing Div with semantics elements. 
+-  Figured out my weakness and strenght in this project .
 
 ## Table of Contents (Optional)
+
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -36,11 +37,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Got tutor help me through zoom calls with questions i had during my project .
 
 ## License
 
@@ -52,7 +49,7 @@ The last section of a high-quality README file is the license. This lets other d
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+![badmath](./assets/images/lead-generation.png)
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
