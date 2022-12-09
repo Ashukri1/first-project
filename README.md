@@ -9,7 +9,7 @@ Provide a short description explaining the what, why, and how of your project. U
 -  The motivation was to see if i was able to do something on my own without the instructor help and see what are my weakness and strenght in HTML.
 -  (Note: the answer is not "Because it was a homework assignment.") I biuld this project to implement what i learnt in class and made use of different semantics instead of divs.
 -  The problem that i solved would be i followed the challenge with  the requirements changing Div with semantics elements. 
--  Figured out my weakness and strenght in this project .
+-  Figured out my weakness and strenghts in this project .
 
 ## Table of Contents (Optional)
 
@@ -49,7 +49,7 @@ The last section of a high-quality README file is the license. This lets other d
 
 ## Badges
 
-![badmath](./assets/images/lead-generation.png)
+![badmath](./assets/images/digital-marketing-meeting.jpg)
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
